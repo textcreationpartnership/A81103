@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God, the guide of youth. Briefly open'd and urg'd in a sermon preached with a special relation to young persons, January 1st. 1694/5 And at the earnest intreaty of several of the hearers published. By T. Cruso.</title>
+            <author>Cruso, Timothy, 1656?-1697.</author>
+         </titleStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81103</idno><idno type="EEBO-CITATION">99899299</idno>
+  <idno type="VID">152925</idno>
+  <idno type="EEBO-PROQUEST">2240863603</idno>
+  
+            <idno type="STC">Wing C7439</idno>
+            <idno type="STC">ESTC R229665</idno>
+            <idno type="PROQUEST">99899299</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899299e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2333:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God, the guide of youth. Briefly open'd and urg'd in a sermon preached with a special relation to young persons, January 1st. 1694/5 And at the earnest intreaty of several of the hearers published. By T. Cruso.</title>
+                  <author>Cruso, Timothy, 1656?-1697.</author>
+               </titleStmt>
+               <extent>[8], 50, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Cockerill, at the Three Leggs in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final leaf of advertisement.</note>
+                  <note>Reproduction of original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Young men --  Conduct of life --  Early works to 1800.</term>
+               <term type="topical_term">Young women --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152925:1"/>
+            <p>
+               <hi>God, the Guide of Youth.</hi>
+            </p>
+            <p>Briefly Open'd and Urg'd IN A SERMON Preached with a special Relation to Young Persons, <hi>January 1st.</hi> 1694/5.</p>
+            <p>And at the earnest Intreaty of several of the Hearers Published.</p>
+            <p>By <hi>T. CRƲSO.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 4.10, 11.</hi>
+               </bibl>
+               <p>Hear, Oh my Son, and receive my Sayings, and the years of thy Life shall be many.</p>
+               <p>I have taught thee in the way of Wisdom, I have led thee in right paths.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Cockerill,</hi> at the <hi>Three Leggs</hi> in the <hi>Poultrey,</hi> 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152925:2"/>
+            <pb facs="tcp:152925:2"/>
+            <head>THE PREFACE.</head>
+            <p>AS the <hi>Conception</hi> and <hi>Birth</hi> of the following Discourse was truly owing to the pious Motion and Request of some <hi>Young Per<g ref="char:EOLhyphen"/>sons,</hi> from a Principle (I hope) of unfeigned Zeal for God, and the good of Souls; so it is <hi>their</hi> de<g ref="char:EOLhyphen"/>sire, backt by many others, which hath encourag'd and produc'd it's <hi>publick appearance</hi> in the World. Whether God will make that use of it, by <hi>turning</hi> any of <hi>the disobe<g ref="char:EOLhyphen"/>dient to the Wisdom of the just,</hi> which may answer their Expectati<g ref="char:EOLhyphen"/>on, and my Intention, I am not able to foresee, but am very well
+<pb facs="tcp:152925:3"/>assur'd, that it neither will nor can effectually serve such a purpose as that is, any further than <hi>He</hi> is pleased to direct, and set it home upon the hearts of the Readers.</p>
+            <p>It is therefore, with an Eye to God'simplored Influence and Bles<g ref="char:EOLhyphen"/>sing, that I have now made this <hi>Se<g ref="char:EOLhyphen"/>cond</hi> particular Address to such as may be reckon'd in the <hi>Youthful State</hi> and period of Life; the general design both of this and the former, is the same; for as that perswaded and prest a timely <hi>Opposition to the Devil,</hi> this does in like manner sollicite an early <hi>Resignation to God.</hi> Some <hi>Variety</hi> there is in the <hi>Seed,</hi> (and 'tis fit that there should be, for the avoiding of <hi>Vain</hi> and needless <hi>Repetitions,</hi> which may be a fault in <hi>Preaching,</hi>
+               <note place="margin">Matt. 6.7.</note> as well as in <hi>Prayer</hi>) and there was a <hi>Difference</hi> also in the <hi>Season of Sowing;</hi> it having been suggested to me, that probably a <hi>New-Years-Day</hi>
+               <pb facs="tcp:152925:3"/>might give some peculiar ad<g ref="char:EOLhyphen"/>vantage for the doing of a greater good; which is my only End.</p>
+            <p>The renewing of such Discourses cannot be condemned as superfluous, as long as the <hi>Age</hi> hath so manifest need of them; and tho' want of the wished Success from what hath been already done, be apt to fill all well-affected minds with uncom<g ref="char:EOLhyphen"/>fortable thoughts, yet this should not deter or restrain from future Attempts, for then our <hi>whole Mi<g ref="char:EOLhyphen"/>nistry</hi> might be laid aside, and we might (perhaps with as much rea<g ref="char:EOLhyphen"/>son) say, as the <hi>lamenting Pro<g ref="char:EOLhyphen"/>phet</hi> did,<note place="margin">Jer. 9.20.</note>
+               <hi>We will not make mention of him, nor speak any more in his Name.</hi> Divine Pa<g ref="char:EOLhyphen"/>tience andGoodness, not only in <hi>bearing,</hi> but in <hi>dealing long</hi> with many refractory Sinners, is most cer<g ref="char:EOLhyphen"/>tainly a Pattern to us, and the <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> may very <hi>justly</hi> be oblig'd to do what their <hi>Great Master</hi> freely
+<pb facs="tcp:152925:4"/>condescends to do. If <hi>God speaketh once,</hi>
+               <note place="margin">Job 33.14.</note>
+               <hi>yea twice, to man who perceiveth it not,</hi> as it gives us occasion to admire the riches of his <hi>Grace,</hi> so it intimates how little cause we have to repine at the (Im<g ref="char:EOLhyphen"/>prosperous) performance of our own <hi>Duty.</hi>
+            </p>
+            <p>I have nothing further to signifie to the Reader of this plain Sermon, but that he will find it entirely <hi>Pra<g ref="char:EOLhyphen"/>ctical;</hi> which I mention not, as if I thought that <hi>Doctrinal Subjects</hi> were not proper to be handled, or perus'd, (for undoubtedly <hi>Clear<g ref="char:EOLhyphen"/>ness</hi> of <hi>Knowledge,</hi> and Sound<g ref="char:EOLhyphen"/>ness in the <hi>Faith,</hi> have a very useful Tendency to true Holiness of <hi>Life</hi>) but because it is more becoming my Meanness to leave those Subjects to abler Pens. It is exceeding deplorable, that we are fallen into a time wherein the anciently-acknowledged <hi>Funda<g ref="char:EOLhyphen"/>mentals</hi> must be defended, that
+<pb facs="tcp:152925:4"/>those mouths of <hi>Socinian</hi> Blasphe<g ref="char:EOLhyphen"/>my may be stopt, which have been open'd very wide of late; and that better Instructions than those of the <hi>Cracovian Catechism</hi> may be provided for our <hi>English Youth,</hi> among whom the wretched taint seems to be too far spread. But the setting up of <hi>corrupted Rea<g ref="char:EOLhyphen"/>son</hi> in defiance to Scripture-Re<g ref="char:EOLhyphen"/>velation, is the Spring of these Evils; and therefore I have here propos'd and recommended a Surer <hi>Unerring Guide,</hi> who is able to preserve from such Delusions, as well as from all Ʋngodliness.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan. 15. 1694/5.</hi>
+                  </date>
+               </dateline>
+               <signed>T. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:152925:5"/>
+            <pb n="1" facs="tcp:152925:5"/>
+            <head>
+               <hi>God, the Guide of Youth.</hi> Briefly Open'd and Urg'd, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JEREM. III. 4.</hi>
+                  </bibl>
+                  <p>Wilt thou not from this time cry unto me, My Father, thou art the guide of my youth?</p>
+               </q>
+            </epigraph>
+            <p>THIS Chapter contains se<g ref="char:EOLhyphen"/>veral Instances of God's marvellous mercy in the earnest Invitation of a very sinful Peo<g ref="char:EOLhyphen"/>ple to Repentance; no People could <hi>need more</hi> to be stirr'd up to this Duty, than the <hi>Jews;</hi> nor yet could any <hi>deserve less</hi> En<g ref="char:EOLhyphen"/>couragement in the performance of it. Every place which they could look to, put them in mind
+<pb n="2" facs="tcp:152925:6"/>of their Defilements; <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>2</label> so that as their hearts had foolishly <hi>wal<g ref="char:EOLhyphen"/>ked after their Eyes,</hi> their Eyes might now justly <hi>affect their Hearts.</hi> But yet to quicken them the more, God manifests his Goodness <hi>in Correcting them with Judgment,</hi> and sends his Rod to make them hearken to his Word; <hi>Therefore the showers have been withholden,</hi>
+               <note place="margin">Ver. 3. C. 5.24, 25.</note>
+               <hi>and there hath been no latter rain;</hi> which is men<g ref="char:EOLhyphen"/>tioned not only here, but after<g ref="char:EOLhyphen"/>wards again. Hereupon God <hi>expostulates</hi> with them in the words of the Text, <hi>Wilt thou not from this time,</hi> &amp;c.?</p>
+            <p>In which words we may con<g ref="char:EOLhyphen"/>sider these Two things, God's way and manner of Address to this People, and the Language which he teaches them to speak.</p>
+            <p n="1">1. The <hi>Way</hi> and <hi>Manner</hi> of God's Address to them; <hi>Wilt thou not,</hi> &amp;c. 'Tis put in the
+<pb n="3" facs="tcp:152925:6"/>form of a Question, which is the most <hi>Pathetical</hi> arguing, and very frequently used by God in Scripture.<note place="margin">C. 13.27.</note> So in another part of this Prophecy, <hi>Wilt thou not be made clean? when shall it once be?</hi> This is a more direct <hi>Ap<g ref="char:EOLhyphen"/>peal</hi> to the Conscience of the Sinner, than any other general Methods of perswasion; 'tis a more powerful urging of the Sinner to answer to God's call, or to give a Reason why he does not.</p>
+            <p n="2">2. The <hi>Language</hi> which God teaches them to speak, as he bids <hi>Israel</hi> to <hi>take with them words,</hi> and then tells them what they should say, <hi>Take away all iniquity,</hi>
+               <note place="margin">Hos. 14.2.</note>
+               <hi>and receive us graciously;</hi> so here, he puts them upon <hi>Crying</hi> to him, and instructs them what they should cry, <hi>My Father, Thou art the Guide of my Youth.</hi> Here is a <hi>double relation</hi> to God, which
+<pb n="4" facs="tcp:152925:7"/>they are taught to claim, the relation of a <hi>Father,</hi> and of a <hi>Guide.</hi>
+            </p>
+            <p n="1">1.<note place="margin">C. 31.9.</note>
+               <hi>My Father.</hi> God owns himself to be <hi>a Father to Israel,</hi> and he was desirous that they should acknowledge him as such also. They had given this Glo<g ref="char:EOLhyphen"/>ry to another, even to sensless Idols,<note place="margin">C. 2.27.</note>
+               <hi>Saying to a Stock, thou art my Father;</hi> but now God soli<g ref="char:EOLhyphen"/>cites their return to their Duty; as afterwards in this Chapter, <hi>I said, <label type="milestone">
+                     <seg type="milestoneunit">Ver. </seg>19</label> Thou shalt call me, My Father:</hi> which indeed they had the highest Reason and greatest Obligation to do.</p>
+            <p n="2">2. <hi>Thou art the Guide of my Youth.</hi> This Clause may have a <hi>Twofold reference;</hi> Either, 1. To that <hi>conjugal relation</hi> which God had taken them in<g ref="char:EOLhyphen"/>to with himself; God styling himself <hi>their Husband,</hi>
+               <note place="margin">Isa. 54.5.</note> and the
+<pb n="5" facs="tcp:152925:7"/>Husband in Scripture being ter<g ref="char:EOLhyphen"/>med,<note place="margin">Prov. 2.17.</note> the <hi>Guide of the Woman's Youth.</hi> Or, 2. To his eminent <hi>Providential Conduct</hi> of them, when they were <hi>first formed</hi> to be his People. The time of their coming up out of the <hi>Land of Egypt,</hi>
+               <note place="margin">Hos. 2:15.</note> is often set forth by the <hi>day of their Youth;</hi> and then it was, that God <hi>led them forth,</hi>
+               <note place="margin">Exod. 15.13.</note>
+               <hi>and guided them by his strength,</hi> both through the Sea, and in the Desart, till he brought them in<g ref="char:EOLhyphen"/>to <hi>Canaan.</hi>
+            </p>
+            <p>This may suffice for the open<g ref="char:EOLhyphen"/>ing of the words, as they carry in them a particular respect to the <hi>Jews.</hi> My present design and work is to accommodate and improve them to another purpose. The <hi>days</hi> wherein we live, are extremely <hi>Evil;</hi> but yet we have a sad and doleful Prospect of the <hi>next Age</hi> be<g ref="char:EOLhyphen"/>coming <hi>worse,</hi> if God do not by
+<pb n="6" facs="tcp:152925:8"/>some effectual means stop the wicked Course of the <hi>Rising Ge<g ref="char:EOLhyphen"/>neration.</hi> We see such Crowds and Swarms of <hi>young Ones</hi> con<g ref="char:EOLhyphen"/>tinually <hi>posting down</hi> to Hell, and <hi>bringing up</hi> so much of Hell in the midst of us, that both in compassion to them, and to our Native Countrey, we cannot but use some Christian endeavours to open the Eyes of these <hi>Mad Prodigals,</hi> and to fetch them home. If God will please to Accompany and Bless the word which is now spoken to that end, by helping me to plead in his Name with such, and by awakening their ears and hearts, to receive and comply with this Message, both I and They, and many of those that come after us all, will have cause of Thank<g ref="char:EOLhyphen"/>fulness to God, in Time and to Eternity.</p>
+            <pb n="7" facs="tcp:152925:8"/>
+            <p> The main Point which I pro<g ref="char:EOLhyphen"/>pose to speak to, is this, That</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obser. </seg>
+               </label>
+               <hi>The chusing of God as the Guide of our Youth, is a very great and important Duty.</hi>
+            </p>
+            <p>In handling of this, my Me<g ref="char:EOLhyphen"/>thod shall be,</p>
+            <p>To shew,</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+                  <hi>First,</hi> What it im<g ref="char:EOLhyphen"/>plies to chuse God as our Guide.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+                  <hi>Secondly,</hi> In what respects Youth especially stands in need of such a Guide.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/>
+                  <hi>Thirdly,</hi> Why this is a Duty of so great importance?</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+                  <hi>Fourthly,</hi> Apply it:</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <hi>First,</hi> What is implyed in the <hi>chusing</hi> of God as our <hi>Guide.</hi> Here <hi>Three</hi> things should be open'd a little; what it suppo<g ref="char:EOLhyphen"/>ses; wherein it consists; and what are the natural Consequen<g ref="char:EOLhyphen"/>ces and Effects of it.</p>
+            <pb n="8" facs="tcp:152925:9"/>
+            <p> First, What is <hi>supposed</hi> to the making choice of God as our Guide?</p>
+            <p>
+               <hi>Ans.</hi> A <hi>Deep sense</hi> of the Foo<g ref="char:EOLhyphen"/>lishness, Falseness, Weakness, and Unruliness of <hi>our own Spi<g ref="char:EOLhyphen"/>rits.</hi>
+            </p>
+            <p n="1">1. We must be seriously con<g ref="char:EOLhyphen"/>vinc't of the <hi>Foolishness</hi> of our own Spirits. No man in the World resolvedly chuses the Guidance of God, till he hath a due apprehension of this.<note place="margin">Prov. 22.15.</note>
+               <hi>So<g ref="char:EOLhyphen"/>lomon</hi> tells us, and woful expe<g ref="char:EOLhyphen"/>rience backs it, <hi>That Foolishness is bound in the heart of a Child.</hi> It is <hi>bound,</hi> in a double Sense; so as to be rooted and <hi>fastned</hi> there, and yet so as to be hid and <hi>concealed</hi> too. Not but that there are too many <hi>open Disco<g ref="char:EOLhyphen"/>veries</hi> of it by its <hi>fruits</hi> to others; and nevertheless the <hi>thing it self</hi> remains secret and unperceived to the persons
+<pb n="9" facs="tcp:152925:9"/>themselves. Tho' we be <hi>really</hi> Fools, yet we are hardly brought to <hi>believe</hi> we are so, but are still <hi>Wise in our own Conceits.</hi> This is that which confirms and <hi>binds</hi> our Misery upon us; for unless we <hi>see</hi> our Folly, we shall never take the right course which the Text prescribes to <hi>cure</hi> it.</p>
+            <p n="2">2. We must be convinc'd like<g ref="char:EOLhyphen"/>wise of the <hi>Falseness</hi> of our own Spirits. The Prophet warns us of <hi>putting Confidence in a Guide;</hi>
+               <note place="margin">Mic. 7.5.</note> which is especially applicable to the <hi>Heart</hi> it self. This is so <hi>de<g ref="char:EOLhyphen"/>ceitful</hi> and treacherous, that none can perfectly <hi>know</hi> it but God. We our selves cannot imagine or suspect how bad it is; they who have presumptu<g ref="char:EOLhyphen"/>ously <hi>trusted</hi> their own hearts, have always found them to be a great deal worse than they ever <hi>though</hi> them to be. It is most unquestionably true, that no one
+<pb n="10" facs="tcp:152925:10"/>ever expected <hi>any good</hi> from him<g ref="char:EOLhyphen"/>self, but that he hath been dis<g ref="char:EOLhyphen"/>appointed and deceiv'd <hi>therein.</hi> It is of great use to us, to be<g ref="char:EOLhyphen"/>lieve and remember this; other<g ref="char:EOLhyphen"/>wise we shall continue Self-con<g ref="char:EOLhyphen"/>fident still, and the Conduct of God will be rejected. Men will not remove themselves <hi>out of their own hands,</hi> except they are apprehensive of being <hi>betray'd.</hi>
+            </p>
+            <p n="3">3. We must be also convinc'd of the <hi>Weakness</hi> of our own Spi<g ref="char:EOLhyphen"/>rits.<note place="margin">Ezek. 16.30.</note>
+               <hi>How weak is they heart, saith the Lord God?</hi> How unable to withstand any small <hi>Temptation,</hi> or to perform any acceptable <hi>Service?</hi> How unable to bear up against it's own <hi>Corruptions,</hi> or to hold out in the exercise of <hi>Grace?</hi> How unable to prevent the <hi>inrodes</hi> of the Devil, or to forbear <hi>running forth</hi> to pollu<g ref="char:EOLhyphen"/>ting Objects? What a <hi>Spirit of infirmity</hi> is it possest and <hi>bowed
+<pb n="11" facs="tcp:152925:10"/>down</hi> with? How wretchedly feeble does it appear to be, upon the least <hi>Tryal</hi> of it's strength? This should be known and con<g ref="char:EOLhyphen"/>sidered by us, or else we shall de<g ref="char:EOLhyphen"/>stroy our selves by <hi>leaning to our own arm,</hi> as well as our own <hi>un<g ref="char:EOLhyphen"/>derstanding;</hi> for we shall never make unfeigned Application to God, so long aswe fancy that we are strong enough without him.</p>
+            <p n="4">4. We must be further con<g ref="char:EOLhyphen"/>vinc'd of the <hi>Ʋnruliness</hi> of our own Spirits. The Scripture does not compare us in vain to the most irregular and <hi>untamed</hi> Crea<g ref="char:EOLhyphen"/>tures; to a <hi>Wild Asses colt;</hi>
+               <note place="margin">Job 11.12. Jer. 2.24.</note> and to a <hi>Wila Ass that is accustomed to the Wilderness.</hi> We naturally <hi>break all Yokes,</hi> and <hi>burst all bonds;</hi> are impatient of just restraint, and frowardly pursue our own sinful Inclinations, how mis<g ref="char:EOLhyphen"/>chievous soever they be. Ma<g ref="char:EOLhyphen"/>gistrates,
+<pb n="12" facs="tcp:152925:11"/>Ministers, Relatives, Friends, cannot <hi>Rule</hi> us, nor we our selves.<note place="margin">Prov. 16.32.</note> It is much easier to <hi>take a City,</hi> and conquer a Na<g ref="char:EOLhyphen"/>tion, yea to carry our Victori<g ref="char:EOLhyphen"/>ous Arms through the World, than to <hi>rule our Spirits;</hi> the No<g ref="char:EOLhyphen"/>tion of <hi>Self-Government</hi> is <hi>but a Notion,</hi> and impossible to be put in Practice, till we come out of our state of Nature.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Secondly,</hi> Wherein does the chusing of God for our Guide, <hi>consist?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> In the <hi>committing of our selves</hi> to his Wisdom, Fidelity, Power, and Authority.</p>
+            <p n="1">1. It includes a committing of our selves to the infinite <hi>Wis<g ref="char:EOLhyphen"/>dom</hi> of God, to be taught and counsell'd by him; so did <hi>David; shew me</hi> (says he) <hi>thy ways,</hi>
+               <note place="margin">Psal. 25.4.</note>
+               <hi>Oh Lord, teach me thy paths.</hi> This is the proper work of a Guide, to <hi>direct</hi> the Ignorant Traveller
+<pb n="13" facs="tcp:152925:11"/>in a strange Land, and unknown Countrey. Such is our Case du<g ref="char:EOLhyphen"/>ring the <hi>time of our Sojourning</hi> here in this World; and it is the work of the <hi>only wise God,</hi> to <hi>guide our feet, and direct our steps for us,</hi> which he will do if we sincerely resign our selves to him. That which undoes us, is not God's <hi>unwillingness to instruct us,</hi> but our own <hi>unteachableness;</hi> there is a <hi>Voice behind us,</hi> but we <hi>refuse to hearken,</hi> and this <hi>per<g ref="char:EOLhyphen"/>verts our way.</hi>
+            </p>
+            <p n="2">2. It includes a committing of our selves to the Fidelity of God, without any jealousie or distrust of it. God is faithful in his ordering and disposing of us; and this holy <hi>David</hi> was perswaded of, when he put up that Prayer;<note place="margin">Psal. 25.5.</note>
+               <hi>Lead me in thy truth, and teach me.</hi> We are to <hi>assure our own hearts,</hi> that 'tis impossible to walk in a <hi>way which
+<pb n="14" facs="tcp:152925:12"/>is not good,</hi> if we <hi>walk after the Lord;</hi> that if we <hi>follow God fully,</hi> we can never follow him to our disadvantage. No man chuses such a Guide, as he thinks will carry him <hi>out of his Road,</hi> or <hi>into Danger.</hi> All such unbe<g ref="char:EOLhyphen"/>lieving fears, must therefore be banish'd from our hearts, with reference to God, that we may be entirely and chearfully given up to him.</p>
+            <p n="3">3. There is a committing of our selves to the <hi>Power</hi> of God for our Security and <hi>Protection,</hi> and for our Assistance and <hi>Sup<g ref="char:EOLhyphen"/>port.</hi> This is one part of the Office of a Guide, to <hi>guard</hi> those that are under his Care, and likewise to <hi>keep</hi> them <hi>from fall<g ref="char:EOLhyphen"/>ing.</hi> This is intimated by that passage of the Prophet;<note place="margin">Isa. 51.18.</note>
+               <hi>There is none to guide her among all the Sons whom she hath brought forth, neither is there any that takes her
+<pb n="15" facs="tcp:152925:12"/>by the hand,</hi> &amp;c. Now this is one of the things which God performs for us, and which we are humbly to depend upon him for.<note place="margin">Psal. 17.5.</note>
+               <hi>Hold up my goings</hi> (says <hi>Da<g ref="char:EOLhyphen"/>vid</hi>) <hi>in thy paths, that my Foot<g ref="char:EOLhyphen"/>steps slip not.</hi> So he dealt with his <hi>Israel</hi> of old, when he <hi>led them through the deep,</hi>
+               <note place="margin">Isa. 63.13.</note>
+               <hi>as an Horse in the Wilderness, that they should not stumble.</hi>
+            </p>
+            <p n="4">4. There is a committing of our selves to the Supream <hi>Au<g ref="char:EOLhyphen"/>thority</hi> of God,<note place="margin">Isa. 63.13.</note> to be sway'd and ruled by him. Guidance and Government go together; they seem to be Equivalent terms,<note place="margin">Prov. 6.7.</note>
+               <hi>Having no Guide, Overseer or Ru<g ref="char:EOLhyphen"/>ler.</hi> The Governours of the Peo<g ref="char:EOLhyphen"/>ple are called their <hi>Leaders;</hi>
+               <note place="margin">Isa. 3.12.</note> and therefore 'tis but an empty Pre<g ref="char:EOLhyphen"/>tence to make as if we were willing to be led by God, when we oppose the setting up of his <hi>Kingdom</hi> within us, and living
+<pb n="16" facs="tcp:152925:13"/>in a state of Subjection to him. We do not heartily Consent to the <hi>Conduct</hi> of God, unless we agree to be under his <hi>Dominion.</hi> So that if we deal truly in this Case, we must look upon him as our Holy <hi>Soveraign,</hi>
+               <note place="margin">Psal. 119.172.</note> and ac<g ref="char:EOLhyphen"/>count that <hi>all his Commandments are Righteousness,</hi> as the Holy Ghost affirms them to be.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Thirdly,</hi> What are the proper <hi>Consequences</hi> and <hi>Effects</hi> of chu<g ref="char:EOLhyphen"/>sing God to be our Guide?</p>
+            <p>
+               <hi>Ans.</hi> It will be seen by the <hi>re<g ref="char:EOLhyphen"/>spect</hi> which we bear to the Spirit and Word, to spiritual and na<g ref="char:EOLhyphen"/>tural Fathers.</p>
+            <p n="1">1. A strict regard to the <hi>Mo<g ref="char:EOLhyphen"/>tions of the Spirit,</hi> this is styled in Scripture,<note place="margin">Rom. 8.1, 4. Galat. 25.16, 5.</note>
+               <hi>walking after the Spirit,</hi> and <hi>walking in the Spirit.</hi> The Enquiry therefore will be, how we carry our selves to<g ref="char:EOLhyphen"/>wards the Spirit of God? When he <hi>strives with us,</hi> whether we
+<pb n="17" facs="tcp:152925:13"/>yield to him, or strive against him? When he would <hi>keep us back</hi> from sin, whether we de<g ref="char:EOLhyphen"/>sist and forbear, or hold our Re<g ref="char:EOLhyphen"/>solution, and go on notwithstand<g ref="char:EOLhyphen"/>ing? When he <hi>stirs us up</hi> to du<g ref="char:EOLhyphen"/>ty, whether we omit or delay it, or whether we set about it in<g ref="char:EOLhyphen"/>stantly with all our might? When we feel a Divine <hi>impulse</hi> in our selves, are we wrought upon, influenc'd and determin'd by it, or not? do we <hi>gratifie</hi> the Spirit of God by a ready Com<g ref="char:EOLhyphen"/>pliance,<note place="margin">Joh. 16.13. Rom. 8.14.</note> or do we <hi>grieve</hi> him by a sullen resistance? According as we can answer hereunto, God is or is not our real Guide, for it is <hi>by his Spirit</hi> that he <hi>leads.</hi>
+            </p>
+            <p n="2">2. A due attendance to the <hi>light of the Word;</hi> for here we have a written Copy of the mind of God, and stated Rules given us to walk by. We are not to look for sudden and extraordi<g ref="char:EOLhyphen"/>nary
+<pb n="18" facs="tcp:152925:14"/>Revelations to direct us in the Course of obedience, but to eye this Authentick and setled discovery of the Divine Will. The <hi>young man</hi> is bid to <hi>cleanse his way, by taking heed to it accor<g ref="char:EOLhyphen"/>ding to this Word.</hi>
+               <note place="margin">Psal. 119.9.</note> And <hi>David</hi> prays in the same Psalm, that <hi>his steps might be order'd in this Word.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>133</label> Now we should there<g ref="char:EOLhyphen"/>fore examine our selves, how we stand affected towards the Word, and what reverence and observance we pay to it; Do we consult the Scripture <hi>more,</hi> or <hi>less</hi> than <hi>flesh and blood?</hi> Do we study it in order to a pra<g ref="char:EOLhyphen"/>ctical acquaintance, or not? Does it constantly <hi>dwell in us,</hi> and is it carefully <hi>laid before us,</hi> or do we neglect it, and forget it?</p>
+            <p n="3">3. A just respect to your <hi>In<g ref="char:EOLhyphen"/>structors in Christ,</hi> especially to <hi>spiritual Fathers.</hi> They who will not <hi>obey their VVord,</hi> are plainly
+<pb facs="tcp:152925:14"/>not under the Guidance of God; for Ministerial Conduct is <hi>Sub<g ref="char:EOLhyphen"/>ordinate</hi> to his, and Ministers are called <hi>Shepherds,</hi> because they are under the <hi>chief,</hi> and it is their special Province to <hi>lead the flock.</hi> God does no where en<g ref="char:EOLhyphen"/>joyn or countenance fordid <hi>Sla<g ref="char:EOLhyphen"/>very</hi> to <hi>Roman Priests,</hi> (or any like them) but on the other hand he is as far from allowing or to<g ref="char:EOLhyphen"/>lerating the <hi>prophane Contempt</hi> of his own Messengers, that are <hi>Pastors after his heart.</hi> It is no bet<g ref="char:EOLhyphen"/>ter than <hi>mocking of God,</hi> to sit under any Gospel Ministry, and not to be aw'd, or govern'd by it. The <hi>teachings of God</hi> are con<g ref="char:EOLhyphen"/>veyed to you by <hi>Men</hi> like your selves; and therefore in <hi>despising them,</hi> you <hi>set him at nought.</hi> When you have chosen one to inspect, <hi>and watch for your Souls,</hi>
+               <note place="margin">Hebr. 13 17.</note> you ought to <hi>submit your selves</hi> to him.</p>
+            <p n="4">
+               <pb n="20" facs="tcp:152925:15"/> 4. Regular obedience to <hi>natu<g ref="char:EOLhyphen"/>ral Parents,</hi> or such as are in their stead to you. It is very <hi>becom<g ref="char:EOLhyphen"/>ing</hi> to take their Advice in all weighty and eminent Cases; it is <hi>necessary</hi> to receive and perform their Commands in all things lawful; but above all, 'tis most <hi>indispensable Duty</hi> to hearken to their Godly admonitions and perswasions in the Matters of Religion. They who can be <hi>deaf</hi> to these, do evidently re<g ref="char:EOLhyphen"/>nounce and relinquish God from being their Guide; and there<g ref="char:EOLhyphen"/>fore the <hi>stubborn and rebellious Child</hi> hath reason to say, as he in the Parable did,<note place="margin">Luk. 15.18.</note>
+               <hi>Father, I have sinned against heaven, and before thee;</hi> you cannot sin against <hi>them;</hi> but that you sin against <hi>heaven</hi> also. God says by <hi>Solomon, My Son,</hi>
+               <note place="margin">Prov. 1.8.</note>
+               <hi>hear thou the instruction of thy Father, and forsake not the Law of thy Mother;</hi> from whence
+<pb n="21" facs="tcp:152925:15"/>'tis manifest that their <hi>instruction</hi> should be as a <hi>Law</hi> to you. Such as <hi>ober their Parents in the Lord,</hi> do indeed obey the Lord in their Parents; and Goid hath intere<g ref="char:EOLhyphen"/>sted himself so much in their Quarrel,<note place="margin">C. 30.17.</note> that he hath threatned disobedient Children with hav<g ref="char:EOLhyphen"/>ing their <hi>Eyes pickt out and de<g ref="char:EOLhyphen"/>vour'd by Ravens and Eagles.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The <hi>Second</hi> Head is to shew, in what regards <hi>Youth</hi> does par<g ref="char:EOLhyphen"/>ticularly <hi>stand in need</hi> of such a Guide as the Text here com<g ref="char:EOLhyphen"/>mends to our Choice. To this purpose consider,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, We are all born <hi>out of the way.</hi> Young and old, Fathers and Children,<note place="margin">Psal. 14.3.</note> are <hi>are all gone aside.</hi> We are not made <hi>Sinners</hi> by <hi>imitation,</hi> but by the Apostacy of the <hi>first Man.</hi> We do not meerly <hi>learn the Road</hi> to Hell from the bad examples of other persons, but we <hi>come into the
+<pb n="22" facs="tcp:152925:16"/>World</hi> with our <hi>faces towards</hi> Hell.<note place="margin">Psal. 58.3.</note>
+               <hi>The wicked are estranged from the womb, they go astray assoon as they are born.</hi> Our very first Motions are disorder<g ref="char:EOLhyphen"/>ly, and Satan <hi>possesses us in the beginning of our way.</hi> We are <hi>turned aside</hi> by <hi>youthful lusts</hi> which are bred within, before we step forth upon the publick Stage. Our tender minds are far from producing any <hi>right thoughts</hi> in our most innocent and uncorrupted years. <hi>The imagina<g ref="char:EOLhyphen"/>tion of Man's heart is evil from his youth.</hi> Every Child of <hi>Adam</hi> is a miserable <hi>Wanderer</hi> from the birth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, We are born unca<g ref="char:EOLhyphen"/>pable of <hi>finding the way,</hi> or of putting our selves into it. As the <hi>Sodomites</hi> at <hi>Lot's</hi> Door were universally <hi>smitten with Blindness both small and great;</hi>
+               <note place="margin">Gen. 19.11.</note>
+               <hi>so from the least to the greatest,</hi> till our New<g ref="char:EOLhyphen"/>birth,
+<pb n="23" facs="tcp:152925:16"/>birth, we want the <hi>seeing Eye. Experience</hi> does not help the Aged, nor does the <hi>Vigour of Nature</hi> recover sight to younger Persons. We inherit this spi<g ref="char:EOLhyphen"/>ritual infirmity from the Womb, that the <hi>Windows</hi> of the Soul are <hi>darkned.</hi> Tho' we are brought forth in the <hi>Gospel-day,</hi> yet our true Character is, <hi>Children of the night.</hi> Whatever arrogant opinion young ones may have of themselves, the Holy Ghost hath link't the <hi>Touths</hi> and the <hi>simple Ones</hi> together,<note place="margin">Prov. 7.7.</note> and hath set forth the <hi>young man</hi> as one <hi>void of understanding;</hi> void of it, we truly are, before God infuse it into us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, The <hi>sooner</hi> we are <hi>in the way,</hi> the <hi>better</hi> it is for us. We may make the greater and quicker <hi>Progress,</hi> and more comfortably expect a final <hi>Wel<g ref="char:EOLhyphen"/>come</hi> in our <hi>Father's house.</hi> No
+<pb n="24" facs="tcp:152925:17"/>
+               <hi>Error</hi> can be rectified too soon; much less such a fatal and destru<g ref="char:EOLhyphen"/>ctiveone, as we naturally <hi>live in.</hi> If we were in a <hi>journey</hi> which requir'd <hi>dispatch,</hi> and upon which our <hi>Life</hi> depended, and were taking a <hi>wrong Course,</hi> we would be glad of the <hi>speediest</hi> informa<g ref="char:EOLhyphen"/>tion of our Mistakes. Why then should the youngest say in their heart, <hi>the time</hi> of returning to God <hi>is not yet come?</hi> What an Honour is it to young ones to be <hi>taught of God,</hi> so as to be able to say with <hi>David,</hi>
+               <note place="margin">Psal. 119.100.</note>
+               <hi>I understand more than the Ancients, because I keep thy Precepts.</hi> How many that defer and put off the work of Conversion to elder years, do then wish as <hi>Job</hi> did,<note place="margin">Job 29.4.</note>
+               <hi>O that I were, as I was in the days of my Youth!</hi> We can rid more ground, and <hi>move more nimbly</hi> in our youth, than when old Age overtakes us; and tho' we should <hi>reach</hi>
+               <pb n="25" facs="tcp:152925:17"/>Heaven at the last, yet we shall be fuller of doubts and fears <hi>in our going</hi> thither. Perhaps (and that is the <hi>most</hi> which can be said) it may not be too late in respect of <hi>safety,</hi> but it may be too late for our <hi>Satisfaction.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, The <hi>longer</hi> we <hi>pro<g ref="char:EOLhyphen"/>ceed in a false way,</hi> the <hi>harder</hi> 'tis to <hi>forsake</hi> and leave it. Youth is a season for the fixing of <hi>Habits</hi> and Customs, good or bad; and if they be bad, it will mightily increase the difficulties of saving Repentance.<note place="margin">Isa. 48.8.</note>
+               <hi>Israel</hi> was a <hi>Trans<g ref="char:EOLhyphen"/>gressor from the womb,</hi> and so continued. They were refra<g ref="char:EOLhyphen"/>ctory and incorrigible, and deaf to all kind of Arguments; and when God traces their di<g ref="char:EOLhyphen"/>fease to its <hi>root</hi> and spring, he tells them, <hi>this hath been thy manner from thy youth,</hi>
+               <note place="margin">Jerm. 22.21.</note>
+               <hi>that thou obeyedst not my voice.</hi> Men are strangely rivetted and confirm'd
+<pb n="26" facs="tcp:152925:18"/>in their disobedience, if it out<g ref="char:EOLhyphen"/>lives <hi>that time of Life.</hi> If we <hi>bear</hi> the Devils <hi>yoke in our youth,</hi> it grows so <hi>easie,</hi> pleasant and familiar to us, that there must be so much more labour to <hi>break it off.</hi> A way which we are <hi>used</hi> to, and have a long time <hi>travelled in,</hi> we are not very readily <hi>di<g ref="char:EOLhyphen"/>verted from;</hi> but we must be <hi>driven</hi> and <hi>pull'd</hi> out of it with more than ordinary violence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, We live to <hi>no purpose</hi> at all, or <hi>worse</hi> than none, till we live to God. The Royal <hi>Preacher</hi> says,<note place="margin">Eccle. 11.10.</note>
+               <hi>that Childhood and youth are vanity;</hi> not only vain in regard of <hi>natural frailty,</hi> but vain in a <hi>Moral Sense,</hi> as not answering any valuable end. What do our <hi>Beings</hi> serve for, if the <hi>Author</hi> of them be for<g ref="char:EOLhyphen"/>gotten? God may come to eve<g ref="char:EOLhyphen"/>ry one of us, as he did to <hi>Eli<g ref="char:EOLhyphen"/>jah</hi> in the Cave, and say, <hi>What
+<pb n="27" facs="tcp:152925:18"/>dost thou here?</hi>
+               <note place="margin">1 Kin 19.9.</note> What Employ<g ref="char:EOLhyphen"/>ment can we put our reasona<g ref="char:EOLhyphen"/>ble Faculties to, which is truly <hi>worthy</hi> of them? What <hi>Childish toys</hi> do we run after, and what <hi>trifles</hi> do we busie our selves a<g ref="char:EOLhyphen"/>bout, till God hath the mana<g ref="char:EOLhyphen"/>ging of our Hearts? We <hi>do we know not what;</hi> at the best we do what will <hi>avail</hi> us nothing; and it had been good for us, if we had never been <hi>capable</hi> of do<g ref="char:EOLhyphen"/>ing any thing at all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, Whatever <hi>Relations</hi> we come to be cast into, we shall not only be <hi>useless</hi> and un<g ref="char:EOLhyphen"/>serviceable, but do <hi>harm</hi> and mischief in them, while we <hi>live without God.</hi> When <hi>Youth</hi> is growing up to <hi>Manhood,</hi> it is the usual time, wherein Persons think of <hi>disposing</hi> themselves some way or other in the world; but what <hi>unprofitable Burdens,</hi> yea what <hi>woful Plagues</hi> will you
+<pb n="28" facs="tcp:152925:19"/>be to those whom you have to do with, if you are not under Divine Conduct? If you should live to be <hi>Heads of Families,</hi> or have any share of influence upon <hi>larger Societies,</hi> what a wretched condition will they be in, that are placed under you? How unfit will you be to be <hi>Guides to others,</hi> that have not chosen God to be <hi>your own?</hi>
+               <note place="margin">Matt. 15.14.</note> When there are <hi>blind Leaders of the Blind,</hi> our Lord hath told us, whither both of them must <hi>fall.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The <hi>Third</hi> thing propound<g ref="char:EOLhyphen"/>ed, is to shew, Why this is a Duty of so <hi>great importance,</hi> to chuse God as the Guide of our Youth? Much of the <hi>Reason</hi> of it hath been already hinted, and more will appear, by what fol<g ref="char:EOLhyphen"/>lows. As</p>
+            <pb n="29" facs="tcp:152925:19"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, We are under very <hi>early engagements</hi> to God. He hath an undeniable right to be <hi>our God from our mother's belly,</hi> be<g ref="char:EOLhyphen"/>cause we owe our very Beings to him. We are bound by the Law of our <hi>Creation</hi> to make choice of God for our Guide and Ruler. It is a shameful ag<g ref="char:EOLhyphen"/>gravation of Sin, to be <hi>unmind<g ref="char:EOLhyphen"/>ful of the rock that begat us.</hi>
+               <note place="margin">Deut. 32.18.</note> 'Tis most true, that God did so; our <hi>formation in the womb</hi> was his Omnipotent work; <hi>Thine hands</hi> (says <hi>Job</hi>) <hi>have made me,</hi>
+               <note place="margin">Job 10.8.</note>
+               <hi>and fashioned me together round about.</hi> The Text it self may suggest this Argument to us, My <hi>Father,</hi> Thou art, <hi>&amp;c.</hi> God, our <hi>hea<g ref="char:EOLhyphen"/>venly</hi> Father, is ten thousand times more to us, than any <hi>earth<g ref="char:EOLhyphen"/>ly</hi> one can be; therefore as soon as we begin to <hi>breathe</hi> in his Air, he may challenge a propriety in us, and dominion over us.</p>
+            <pb n="30" facs="tcp:152925:20"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, We are under <hi>mul<g ref="char:EOLhyphen"/>tiplied numberless</hi> engagements to God, before we arrive at our <hi>youthful period.</hi> There is not a <hi>moment</hi> between that and our first coming into the world, but what is <hi>fill'd up</hi> with mercy. <hi>The time would fail to speak</hi> of the vast <hi>variety</hi> of mercies which attend us throughout our <hi>Infan<g ref="char:EOLhyphen"/>cy</hi> and <hi>Childhood.</hi>
+               <note place="margin">Hos. 11.1.</note>
+               <hi>God loved</hi> Is<g ref="char:EOLhyphen"/>rael <hi>when he was a child;</hi> and how largely hath God exprest his kindness and care with re<g ref="char:EOLhyphen"/>spect to us at the same age! how many thousand <hi>deaths</hi> do poor helpless Infants escape, through the watchfulness of an Almighty <hi>Providence!</hi> whence is it, but from the <hi>oversight</hi> of this vigilant <hi>Eye,</hi> that every Child does not, like that <hi>luna<g ref="char:EOLhyphen"/>tick son</hi> in the Gospel,<note place="margin">Matt. 17.15.</note>
+               <hi>fall oft-times into the fire, and oft into the water!</hi> who hath <hi>brought you
+<pb n="31" facs="tcp:152925:20"/>up, and nourisht you,</hi> ever since your bringing forth; who hath <hi>bound and strengthned your</hi> tender <hi>arms;</hi> who hath made you to <hi>increase in wisdom and stature,</hi> which you cannot <hi>add a cubit to,</hi> but only God? Consider se<g ref="char:EOLhyphen"/>riously the <hi>riches of goodness</hi> spent upon you, and (I may almost venture to say) refuse his gui<g ref="char:EOLhyphen"/>dance if you can.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, We cannot hope that God should be the <hi>staff of our old age,</hi> if he be not chosen as the Guide of our Youth. If we reject him in our <hi>spritely</hi> flou<g ref="char:EOLhyphen"/>rishing days, what favour can we look for in our <hi>crazy</hi> decli<g ref="char:EOLhyphen"/>ning years? How can you say, as <hi>David</hi> boldly does,<note place="margin">Psal. 48.4.</note>
+               <hi>This God will be our guide even unto death,</hi> unless he be freely and delight<g ref="char:EOLhyphen"/>fully chosen now? How can you expect that he should <hi>carry you to your hoary hairs,</hi>
+               <note place="margin">Isa. 46.4.</note> (as he gra<g ref="char:EOLhyphen"/>ciously
+<pb n="30" facs="tcp:152925:21"/>promiseth to do) if your youthful heads be not <hi>found in the way of righteousness?</hi> Shall God <hi>remember mercy</hi> to you, when life is run out to the very <hi>dregs,</hi> if you <hi>forget your duty</hi> to him all the time before? You cannot have any good grounds of hope that it will be so, but rather you may reasonably fear to find God <hi>afar off,</hi> when the <hi>evil days come;</hi> and that when those <hi>unpleasant years draw nigh,</hi> he will be at the greatest <hi>di<g ref="char:EOLhyphen"/>stance.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Fourthly,</hi> We cannot think to <hi>receive any Blessing</hi> from God in any of our <hi>Affairs,</hi> except we be under his Guidance. If he do not <hi>direct your Paths</hi> (which is the priviledge of those only that <hi>acknowledge him</hi>) what expecta<g ref="char:EOLhyphen"/>tion can you have,<note place="margin">Prov. 3.6.</note> but that (as he did to <hi>Bilaam,</hi> whose <hi>way was perverse before him</hi>) he should
+<pb n="31" facs="tcp:152925:21"/>
+               <hi>come out to withstand you?</hi> 'Tho you be placed in <hi>lawful Callings,</hi> and prosecute them with the greatest <hi>diligence,</hi> I must de<g ref="char:EOLhyphen"/>nounce this Sentence against you in the Name of God, That the <hi>fruit of your labour</hi> will have a <hi>blast</hi> upon it, or the very <hi>eating of it</hi> will be <hi>poyson</hi> to you; ei<g ref="char:EOLhyphen"/>ther your <hi>Ʋndertakings,</hi> or your very <hi>Blessings</hi> will be <hi>Curst.</hi>
+            </p>
+            <p n="1">1. Your Undertakings will be curst. Nothing that you <hi>set your hand unto,</hi> shall <hi>prosper;</hi> but if you <hi>walk in the counsel of the ungodly,</hi>
+               <note place="margin">Psalm 1.4.</note> you shall be <hi>as the chaff which the wind driveth away.</hi> If you <hi>sow much,</hi> you shall <hi>reap but little;</hi> all your care and industry shall signify nothing; you may <hi>rise up early, and sit up late,</hi> and all in vain; a <hi>flame shall dry up your branches,</hi> and your <hi>substance shall melt,</hi>
+               <pb n="32" facs="tcp:152925:22"/>and drop through <hi>a bag with holes.</hi>
+            </p>
+            <p n="2">2. If it be not <hi>so,</hi> it will be <hi>worse;</hi> there shall be a curse up<g ref="char:EOLhyphen"/>on your Blessings themselves. If your <hi>way be prosperous,</hi> even that <hi>prosperity shall destroy</hi> you.<note place="margin">Prov. 1.32.</note> The better you speed, the more fatal it will be. If your <hi>Voyage</hi> be successful, and you come home <hi>richly laden,</hi> yet God not being concern'd in the <hi>steering</hi> of your Course, your Misery will be the greater. Your <hi>unsanctified Wealth</hi> will the more effectually <hi>undo</hi> you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>Fifthly,</hi> We shall certainly bring a great deal of <hi>Dishonour</hi> upon our selves, and all that have any concernment in us, if God hath not the management of us. What wretched <hi>Scan<g ref="char:EOLhyphen"/>dals</hi> do they prove to the <hi>Names</hi> they bear, and the <hi>Families</hi> from which they spring, that have
+<pb n="33" facs="tcp:152925:22"/>the <hi>reins thrown over their necks,</hi> and are <hi>let loose to work their own wills</hi> without controul! How many Parents are <hi>brought to shame by children left to them<g ref="char:EOLhyphen"/>selves?</hi>
+               <note place="margin">Prov. 29.15.</note> What a Judgment therefore must the want of Di<g ref="char:EOLhyphen"/>vine Conduct be! Holy <hi>Job</hi> himself, <hi>blessed the name of the Lord</hi> under his greatest Affli<g ref="char:EOLhyphen"/>ctions; but his <hi>Sons</hi> seemed to have <hi>cursed God in their hearts</hi> in their greatest Plenty, which turned to the rep0roach of their Excellent Father, as well as their own ruin. If therefore you would <hi>do worthily in your Generations,</hi> and secure your credit from the <hi>Stains</hi> and <hi>Ble<g ref="char:EOLhyphen"/>mishes</hi> which others commonly contract, you must resign your selves to God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>Sixthly,</hi> We shall have very <hi>sad Reflections</hi> to make <hi>at last</hi> upon our shameful <hi>I regulari<g ref="char:EOLhyphen"/>ties,</hi>
+               <pb n="34" facs="tcp:152925:23"/>if we do not prevent them by chusing of God to be our Guide. How comfortable would it be, if when we are near the close of our Lives, we can ap<g ref="char:EOLhyphen"/>peal to Heaven with <hi>David, Oh God,</hi>
+               <note place="margin">Psalm 71.17.</note>
+               <hi>thou hast taught me from my youth!</hi> Or, if we can look over the several Commands of God, any say (without any Check or Contradiction from Conscience) as that <hi>young Man</hi> in the Gospel did,<note place="margin">Matt. 19.20.</note>
+               <hi>All these things have I kept from my youth up!</hi> But if we must rather say, All these have <hi>I broken,</hi> how dismal will the review be! How <hi>mournfully</hi> will such young ones cry out, when their <hi>flesh is consuming,</hi> and their <hi>Spirit departing;</hi>
+               <note place="margin">Prov. 5.12, 13.</note>
+               <hi>How have I ha<g ref="char:EOLhyphen"/>ted instruction, and my heart de<g ref="char:EOLhyphen"/>spised reproof, and have not obey<g ref="char:EOLhyphen"/>ed the voice of my teachers, nor inclined mine ear unto them!</hi> This will be the Language of
+<pb n="35" facs="tcp:152925:23"/>your <hi>Death-beds,</hi> how jolly and confident soever you be now.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <hi>Seventhly,</hi> You know not <hi>how soon that end</hi> may come, which will make you wish that God had been the <hi>Director of your way.</hi>
+               <note place="margin">Tit. 2.6.</note> The Apostle <hi>Paul</hi> speaks of <hi>exhorting young men to be sober-minded;</hi> but they are ready to fancy that this is an <hi>unseasonable Lesson,</hi> as if it were time enough to put Sobri<g ref="char:EOLhyphen"/>ety in practice, when 'tis <hi>impos<g ref="char:EOLhyphen"/>sible in a course of nature</hi> that they should live much longer. But <hi>come now, and let us reason toge<g ref="char:EOLhyphen"/>ther:</hi> Have you indeed any as<g ref="char:EOLhyphen"/>surance now for <hi>a great while to come?</hi> Who can tell whether your time may not be <hi>shorter</hi> than that of the <hi>oldest Person,</hi> whom you know living? How often does the first Generation see the second go before it! Tho
+<pb n="38" facs="tcp:152925:24"/>you be now in your <hi>full strength,</hi> or coming towards it, how quickly may it be broken and destroyed, if God hath deter<g ref="char:EOLhyphen"/>mined to cut you off? <q>How <hi>loud a Passing-Bell</hi> hath God been ringing among us a few days ago,<note place="margin">The late Q. <hi>Mary</hi> died four Days before the preaching of this, <hi>Decem.</hi> 28. 1694. in the 33<seg rend="sup">d</seg> year of Her Age.</note> that the <hi>whole Na<g ref="char:EOLhyphen"/>tion might hear!</hi> To shew us, That they who are the <hi>breath of their people's nostrils,</hi> have no command of the <hi>breath in their own;</hi> but that it is as liable to <hi>go forth</hi> in the prime and flower of their years, as other mens; to shew us that <hi>Maj<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sty</hi> cannot suspend or put off the stroke of <hi>Mortality;</hi> but that the Lives of <hi>Princes,</hi> like Common Person, may be <hi>snapt in the midst.</hi>
+               </q> How then can any of you promise your selves the <hi>Afternoon of a Summer's day?</hi>
+            </p>
+            <pb n="39" facs="tcp:152925:24"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eighthly, It must needs ba a very <hi>dreadful account</hi> which you will be forc't <hi>very shortly</hi> to give at the <hi>Tribunal of God,</hi> if you go on in an extravagant Course, <hi>walking contrary to him.</hi> It is upon this Argument, that <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> insists, for the reclaiming of youthful Persons from their Fol<g ref="char:EOLhyphen"/>ly and Madness. <hi>Rejoyce,</hi>
+               <note place="margin">Eccle. 11.9.</note>
+               <hi>oh young man in thy Youth, and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart, and in the sight of thine eyes; but know thou, that for all these things God will bring thee to Judgment.</hi> In the for<g ref="char:EOLhyphen"/>mer part of the Verse one wou'd think, that the Holy Ghost gave a full <hi>Toleration</hi> and <hi>License</hi> to the Vanities and Debaucheries of Youth; the young ones who did so as is there said, will cry it up as <hi>good Doctrine,</hi> and say, This is
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:152925:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="39" facs="tcp:152925:25"/>
+               <pb n="40" facs="tcp:152925:26"/>as we would have it; but that <hi>Corrective</hi> which comes in, in the latter part of the Verse, discovers the true meaning of the Holy Ghost, and spoils all the young Man's pleasure. Our Accountableness <hi>to God for</hi> all these things, is an uncomfor<g ref="char:EOLhyphen"/>table and frightful rebuke to the indulging of <hi>our selves in</hi> them. Consider therefore, that if God be no: your <hi>gracious Guide,</hi> he will be your <hi>revenge<g ref="char:EOLhyphen"/>ing Judge;</hi> and consequently, you will have a <hi>miserable walk through the valley of the shadow of Death</hi> to the Bar of Christ, and a <hi>more miserable hurry from thence</hi> to the everlasting place of the Damned. 'Tis without all Controversie, that never any Soul got to Heaven, the <hi>Habi<g ref="char:EOLhyphen"/>tation of God,</hi> without follow<g ref="char:EOLhyphen"/>ing the <hi>Conduct of God.</hi> We may learn this from the <hi>Psal<g ref="char:EOLhyphen"/>mist,
+<pb n="41" facs="tcp:152925:26"/>Thou shalt guide me with thy Counsel,</hi>
+               <note place="margin">Psal. 73.24.</note>
+               <hi>and afterwards re<g ref="char:EOLhyphen"/>ceive me to Glory.</hi> God's <hi>Coun<g ref="char:EOLhyphen"/>sel</hi> must be regarded now, or his <hi>Glory</hi> will not be obtain'd hereafter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> The <hi>Last</hi> thing is, To <hi>Apply</hi> all this. Which that I may do in the most profitable manner that I can, I would speak a little particularly to two <hi>sorts</hi> of per<g ref="char:EOLhyphen"/>sons, <hi>viz.</hi> those that have not chosen God for their Guide, and those that have.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, To them that <hi>have not</hi> yet chosen God to be their Guide, both young and old.</p>
+            <p n="1">1. To you who are <hi>young.</hi> Let me ask, and argue with you in the words of the Text, Will you not <hi>from this time</hi> cry unto God, <hi>&amp;c.?</hi> My Heart's desire is, that <hi>this Scripture might be fulfilled this day</hi> in every one, at least in some one, or more
+<pb n="42" facs="tcp:152925:27"/>of you. <hi>To morrow</hi> will not be so good for this Purpose, as <hi>this Day.</hi> And that for these Reasons.</p>
+            <p n="1">1. Because the <hi>persent time</hi> is always best; most accepta<g ref="char:EOLhyphen"/>ble to God, and sasest for you. 'Tis uncertain what <hi>this Even<g ref="char:EOLhyphen"/>ing and Night may bring forth;</hi> before to morrow you may be past hope, and past remedy; out of the reach of mercy, and uncapable of performing this Duty. Or God may then <hi>turn the back to you</hi> instead of <hi>spread<g ref="char:EOLhyphen"/>ing out his hand;</hi> if you now refuse <hi>his</hi> Call, he may refuse <hi>yours,</hi> when to morrow comes.</p>
+            <p n="2">(2.) This day is a very <hi>Sig<g ref="char:EOLhyphen"/>nal</hi> and <hi>Memorable</hi> Season, the great <hi>Feast of the Passover</hi> was instituted by God, and observed by the <hi>Jews, in the first Month in every year;</hi>
+               <note place="margin">Exod. 12.2.</note> which was the Month wherein God <hi>brought
+<pb n="43" facs="tcp:152925:27"/>them up out of the house of bondage.</hi> Therefore do you, that call your selves <hi>Christians,</hi> turn this day, the <hi>first of your Year,</hi> into a <hi>spiritual Festival,</hi> by consecrating your selves to God, your Deliverer from <hi>sin<g ref="char:EOLhyphen"/>ful Servitude.</hi>
+            </p>
+            <p n="3">(3.) If you do so, you will make this day <hi>so much the more remarkable.</hi> It will be the first day of a <hi>New Life</hi> to you, as well as a <hi>New Year.</hi> You who have been <hi>dead</hi> for so many years, will this day <hi>begin to live,</hi> partake of a Divine <hi>quick<g ref="char:EOLhyphen"/>ning,</hi> and a gracious <hi>Resurre<g ref="char:EOLhyphen"/>ction.</hi> This will vastly out-shine the day of your natural <hi>Birth;</hi> for then you were <hi>born in sin,</hi> and a <hi>Child of wrath;</hi> but now you will be <hi>in Christ,</hi> and a <hi>New Creature.</hi>
+            </p>
+            <p n="4">
+               <pb n="44" facs="tcp:152925:28"/> (4.) Hereby you will make all your <hi>following days</hi> truly hap<g ref="char:EOLhyphen"/>py and <hi>illustrious</hi> also. You may <hi>henceforward</hi> write <hi>Emma<g ref="char:EOLhyphen"/>nuel</hi> for your Motto, and <hi>date</hi> the sure enjoyment of God's fa<g ref="char:EOLhyphen"/>vourable presence with you. As when the <hi>Jews</hi> laid the <hi>founda<g ref="char:EOLhyphen"/>tion</hi> of the Lord's Temple, he tells them,<note place="margin">Hagg. 2.18, 19.</note>
+               <hi>From this day will I bless you;</hi> so you may <hi>reckon</hi> from this day, that throughout all the <hi>ensuing year,</hi> or years of your life, God will accompany you, provide for you, and con<g ref="char:EOLhyphen"/>cern himself about you, as he does for his own <hi>Children,</hi> and the members of his Family. Be<g ref="char:EOLhyphen"/>ing this day taken into the <hi>hou<g ref="char:EOLhyphen"/>shold of God,</hi> it shall be <hi>well</hi> with you at all times hereafter; whether you <hi>outlive</hi> this year which you have now <hi>begun,</hi> or not, you may have peace and
+<pb n="45" facs="tcp:152925:28"/>satisfaction unspeakable; for <hi>both worlds are yours.</hi>
+            </p>
+            <p n="2">2. To you who are <hi>elder per<g ref="char:EOLhyphen"/>sons,</hi> that have past the time of Youth, and attained to <hi>riper Years.</hi> It is yet <hi>more necessary</hi> for you to lay hold of <hi>this time</hi> for a resolved choice of God, and cleaving to him. If you do not with the <hi>conclusion</hi> of the <hi>old Year, put off the Old man,</hi>
+               <note place="margin">Colos. 3.9.</note>
+               <hi>with his deeds,</hi> you are of all others the most without excuse. Think with your selves,</p>
+            <p n="1">(1) How <hi>many opportunities</hi> you have already slipt, and therefore how much it behoves you to slip <hi>no more.</hi> You have <hi>enjoyed multitudes</hi> of seasons be<g ref="char:EOLhyphen"/>yond what others have done, and 'tis very dismal to consider, that hitherto you have <hi>improved none.</hi> God have waited <hi>longer</hi>
+               <pb n="46" facs="tcp:152925:29"/>to be gracious to you, than he can be supposed to have done, with reference to younger per<g ref="char:EOLhyphen"/>sons; Christ hath stood knock<g ref="char:EOLhyphen"/>ing <hi>longer</hi> at your doors, and therefore he will take it <hi>worse</hi> from you than from any, if after such <hi>continued</hi> repulses, you do not <hi>now</hi> admit and re<g ref="char:EOLhyphen"/>ceive him.</p>
+            <p n="2">(2.) You have greater cause than others, even <hi>this day,</hi> to alter your course, because you are most apparently nearer your <hi>last day.</hi> The more <hi>such</hi> days you have seen, the less likely it is that you should survive long enough to see <hi>another.</hi> It may be some of you are not only insensibly <hi>going to your long home,</hi> but in great measure are sensibly <hi>gone</hi> towards it. 'Tis possible that some may (as we are wont to say) have <hi>one foot
+<pb n="47" facs="tcp:152925:29"/>in the grave,</hi> and have not yet <hi>walkt one step with God.</hi> If you do not <hi>think on your ways, and turn your feet now,</hi> even accord<g ref="char:EOLhyphen"/>ing to natural probability, there are but a few <hi>steps betwixt you and Hell.</hi>
+            </p>
+            <p n="3">(3.) Those few, who <hi>while they are yet young</hi> (as was said of <hi>Josiah</hi>) <hi>begin to seek after God,</hi>
+               <note place="margin">2 Chr. 34.3.</note>
+               <hi>will rise up in judgment and condemn you.</hi> Their examples do now <hi>upbraid</hi> and shame you; and therefore, if you felt any thing of <hi>just Emulation</hi> in your on Breasts, and were appre<g ref="char:EOLhyphen"/>hensive what a <hi>foul Disparage<g ref="char:EOLhyphen"/>ment</hi> it is to be <hi>outstript,</hi> and exceeded by them that in re<g ref="char:EOLhyphen"/>spect of years, are <hi>far behind you,</hi> you would resolve this day to be the Lord's. Mis-spend not one <hi>minute of future time,</hi> as you have done what <hi>is past,</hi>
+               <pb n="48" facs="tcp:152925:30"/>when some of your <hi>Juniors</hi> are such commendable Presidents in <hi>laying out</hi> the <hi>same</hi> Months and Years, which are now <hi>lost</hi> to you, to great advantage.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Secondly,</hi> A few Words to them that have already made such a choice of God, whether Young or Old. I would advise and perswade both to these two things.</p>
+            <p n="1">1. <hi>Bless God</hi> for the <hi>inclining</hi> and influencing of your Hearts to chuse him. Offer to him a <hi>New Thanksgiving</hi> upon that account this day; and do not <hi>sacrifice the praise</hi> of it to <hi>your selves. It is God that hath wrought in you to will</hi> such a Self-surrender; for by Nature you <hi>were</hi> as much averse to it, as any can <hi>now remain.</hi> Make your acknowledgments to him
+<pb n="49" facs="tcp:152925:30"/>for it, as for one of the <hi>great<g ref="char:EOLhyphen"/>est Mercies</hi> which he could be<g ref="char:EOLhyphen"/>stow, or you receive; a Mercy which you can never sufficient<g ref="char:EOLhyphen"/>ly <hi>admire</hi> or <hi>celebrate,</hi> tho you should spend <hi>every Year,</hi> and <hi>eve<g ref="char:EOLhyphen"/>ry Day,</hi> in thinking and speaking of it.</p>
+            <p n="2">2. <hi>Renew</hi> the Solemn Dedi<g ref="char:EOLhyphen"/>cation of your selves to God <hi>at this time.</hi> Tho you have done it <hi>heretofore,</hi> do it now <hi>again;</hi> for it cannot be done <hi>too firmly,</hi> and therefore neither can it be done <hi>too frequently.</hi> This is a Day (with many) of <hi>sending gifts one to another,</hi> e<g ref="char:EOLhyphen"/>ven to those that have <hi>formerly</hi> partaken of their Kindness on the <hi>same occasion.</hi> Why should not we then <hi>repeat the giving of our selves to the Lord</hi> in a peculiar manner, as oft as this time <hi>returns</hi> upon us? It was the Laudable Custom of the
+<pb n="50" facs="tcp:152925:31"/>Worthy and Famous Mr. <hi>Robert Fleming,</hi>
+               <note place="margin">Author of the <hi>[Fulfilling of the Scripture]</hi> and other Ex<g ref="char:EOLhyphen"/>cellent Treati<g ref="char:EOLhyphen"/>ses.</note> to set apart this day for such a purpose, near Fifty years successively. Let us <hi>go and do likewise,</hi> that we may be able, as long as we live, to look back still up<g ref="char:EOLhyphen"/>on this <hi>Day,</hi> in all our Temp<g ref="char:EOLhyphen"/>tations for our <hi>Stability and Com<g ref="char:EOLhyphen"/>fort.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:152925:31"/>
+            <head>Books printed for, and sold by <hi>Tho. Cockerill,</hi> at the <hi>Three Legs</hi> in the <hi>Poultrey.</hi>
+            </head>
+            <p>A Sermon on the Resurrection, occasioned by the Funeral of a Friend, by <hi>Walter Cross</hi> M. A.</p>
+            <p>The Instrumentality of Faith asserted, prov'd, explain'd, compar'd with, and pre<g ref="char:EOLhyphen"/>ferr'd to a Conditional Relation thereof, in order to pardon and happiness. Delivered in several Sermons, by <hi>Walter Cross</hi> M. A.</p>
+            <p>Good Deeds done for God's House. Or a Sermon preached on the occasion of the death of Dr. <hi>Jeremiah Butt,</hi> one of the Phy<g ref="char:EOLhyphen"/>sicians appointed for Their Majesties Fleet, by <hi>Ed. Veal.</hi>
+            </p>
+            <p>Infant-Baptism God't Ordinance: Or a clear proof, that all the Children of Believ<g ref="char:EOLhyphen"/>ing Parents are in the Covenant of Grace, and have as much right to Baptism, the now Seal of the Covenant, as the Infant Seed of the <hi>Jews</hi> had to Circumcision, the then Seal of the Covenant, by <hi>Michael Harrison.</hi>
+            </p>
+            <p>A Remedy against Trouble, in a Dis<g ref="char:EOLhyphen"/>course on <hi>John</hi> 14.1. wherein something is also briefly attempted, for clearing the Na<g ref="char:EOLhyphen"/>ture of Faith, of Justification, of the Co<g ref="char:EOLhyphen"/>venant of Grace, Assurance the Witness, Seal and Earnest of the Spirit, and Prepara<g ref="char:EOLhyphen"/>tion for Conversion, or the Neceffity of Ho<g ref="char:EOLhyphen"/>liness, by <hi>Henry Lukin.</hi>
+            </p>
+            <p>A Discourse of Schism, by <hi>Edward Pol<g ref="char:EOLhyphen"/>hill</hi> Esq;</p>
+            <p>Instructions about Heart-work, what is to be done on God's part and ours, for the Cure and keeping of the Heart, <hi>&amp;c.</hi> by that
+<pb facs="tcp:152925:32"/>Eminent Gospel Minister, Mr. <hi>Rich. Alleyn.</hi> With a Preface by Dr. <hi>Annesley.</hi> 2<seg rend="sup">d</seg> Edition.</p>
+            <p>The Evidence of Things not seen: Or divers Spiritual and Philosophical Discour<g ref="char:EOLhyphen"/>ses, concerning the State of Holy Men after Death, by that Eminently Learned Divine, <hi>Moses Amyraldus.</hi> Translated out of the <hi>French</hi> Tongue, by a Minister of the Church of <hi>England.</hi>
+            </p>
+            <p>Mr. <hi>John Flavel</hi>'s Remains, being two Ser<g ref="char:EOLhyphen"/>mons. The one preached at <hi>Dartmouth</hi> in <hi>Devon,</hi> on the day of the Coronation of Their Majesties. The latter intended to be preached at a Meeting of the United Mini<g ref="char:EOLhyphen"/>sters of several Counties. With some Ac<g ref="char:EOLhyphen"/>count of his Life.</p>
+            <p>A Discourse of Regeneration, Faith and Repentance, preached at the Merchant's Lecture in <hi>Broadstreet,</hi> by <hi>Tho Cole,</hi> Minister of the Gospel.</p>
+            <p>A Discourse of Christian Religion in sun<g ref="char:EOLhyphen"/>dry Points, preached at the Merchant's Lecture, by <hi>Tho. Cole.</hi>
+            </p>
+            <p>A Discourse concerning Trouble of Mind, and the Disease of Melancholy, in 3 Parts; written for the use of such as are, or have been exercised by the same, by <hi>Tim. Rogers M. A.</hi> who was long afflicted with both. To which is added some Letters from several Divines, relating to the same Subject.</p>
+            <p>Love to Christ, necessary for all to escape the Curse at his coming, by <hi>Tho. Doolittle M. A.</hi>
+            </p>
+            <p>The Wonders of a merciful Providence, by <hi>T. Cruso.</hi>
+            </p>
+            <p>A Funeral Sermon on Mrs. <hi>Smith,</hi> by <hi>T. Cruse.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
